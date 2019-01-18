@@ -31,3 +31,8 @@ readmefile.puts("C'est un programme ruby")
 
 libfolder = Dir.mkdir("#{name_file}/lib")
 #création du dossier lib
+
+Dir.chdir "#{name_file}"
+system("bundle install")
+system("git init")
+system("rspec --init")
