@@ -1,0 +1,3 @@
+Le programme google_searcher sert à faire en sorte qu'on puisse faire une recherche google dans le terminal, à partir de son navigateur par défaut. Vous pouvez créer un alias à partir de ce fichier, par exemple, quand je tape "search everytime we touch cascada", I'm ready to party !!!!!
+
+Le programme mkdiruby.rb sert à créer un dossier parfait pour mes programmes ruby en une seule commande. Gemfile, gemfile lock, dossier lib, dossier spec, le tout bien git init comme il faut... Encore une fois je créé un alias à partir de ce fichier, et hop on code !!
